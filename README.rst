@@ -75,7 +75,7 @@ If you use the preprocessed data, please cite the corresponding datasets:
 
   @article{Ruiz-Sarmiento-IJRR-2017,
     author = {Ruiz-Sarmiento, J. R. and Galindo, Cipriano and Gonz{\'{a}}lez-Jim{\'{e}}nez, Javier},
-    title = {Robot\@Home, a Robotic Dataset for Semantic Mapping of Home Environments},
+    title = {Robot@Home, a Robotic Dataset for Semantic Mapping of Home Environments},
     journal = {International Journal of Robotics Research},
     year = {2017}
   }
