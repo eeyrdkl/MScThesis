@@ -35,23 +35,23 @@ Citation
 --------
 If you benefit from our research, please cite our paper:
 
-@inproceedings{Yurdakul2017,
+  @inproceedings{Yurdakul2017,
 
-  author	= {Yurdakul, Ekrem Emre and Yemez, Y\"{u}cel},
+    author	= {Yurdakul, Ekrem Emre and Yemez, Y\"{u}cel},
   
-  title		= {{Semantic Segmentation of RGBD Videos with Recurrent Fully Convolutional Neural Networks}},
+    title		= {{Semantic Segmentation of RGBD Videos with Recurrent Fully Convolutional Neural Networks}},
   
-  year		= {2017},
+    year		= {2017},
   
-  booktitle = {ICCV 2017 4th IEEE/ISPRS Joint Workshop on Multi-Sensor Fusion for Dynamic Scene Understanding},
+    booktitle = {ICCV 2017 4th IEEE/ISPRS Joint Workshop on Multi-Sensor Fusion for Dynamic Scene Understanding},
   
-}
+  }
 
 If you use the preprocessed data, please cite the corresponding dataset:
 
 - Virtual KITTI
 
-@inproceedings{Gaidon\:Virtual\:CVPR2016,
+  @inproceedings{Gaidon\:Virtual\:CVPR2016,
 
     author = {Gaidon, A and Wang, Q and Cabon, Y and Vig, E},
     
@@ -61,32 +61,32 @@ If you use the preprocessed data, please cite the corresponding dataset:
     
     year = {2016}
     
-}
+  }
 
 - DAVIS
 
-@inproceedings{Perazzi2016,
+  @inproceedings{Perazzi2016,
 
-  author = {F. Perazzi and J. Pont-Tuset and B. McWilliams and L. {Van Gool} and M. Gross and A. Sorkine-Hornung},
+    author = {F. Perazzi and J. Pont-Tuset and B. McWilliams and L. {Van Gool} and M. Gross and A. Sorkine-Hornung},
   
-  title = {A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation},
+    title = {A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation},
   
-  booktitle = {Computer Vision and Pattern Recognition},
+    booktitle = {Computer Vision and Pattern Recognition},
   
-  year = {2016}
+    year = {2016}
   
-}
+  }
 
 - Robot\@Home
 
-@article{Ruiz-Sarmiento-IJRR-2017,
+  @article{Ruiz-Sarmiento-IJRR-2017,
 
-  author = {Ruiz-Sarmiento, J. R. and Galindo, Cipriano and Gonz{\'{a}}lez-Jim{\'{e}}nez, Javier},
+    author = {Ruiz-Sarmiento, J. R. and Galindo, Cipriano and Gonz{\'{a}}lez-Jim{\'{e}}nez, Javier},
 
-  title = {Robot\@Home, a Robotic Dataset for Semantic Mapping of Home Environments},
+    title = {Robot\@Home, a Robotic Dataset for Semantic Mapping of Home Environments},
 
-  journal = {International Journal of Robotics Research},
+    journal = {International Journal of Robotics Research},
 
-  year = {2017}
+    year = {2017}
 
-}
+  }
