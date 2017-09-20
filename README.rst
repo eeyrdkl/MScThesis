@@ -42,7 +42,7 @@ If you benefit from our research, please cite our paper:
     author = {Yurdakul, Ekrem Emre and Yemez, Y\"{u}cel},
     title = {{Semantic Segmentation of RGBD Videos with Recurrent Fully Convolutional Neural Networks}},
     booktitle = {ICCV 2017 4th IEEE/ISPRS Joint Workshop on Multi-Sensor Fusion for Dynamic Scene Understanding},
-    year = {2017},
+    year = {2017}
   }
 
 If you use the preprocessed data, please cite the corresponding datasets:
