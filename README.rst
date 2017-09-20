@@ -45,7 +45,7 @@ If you benefit from our research, please cite our paper:
     year = {2017},
   }
 
-If you use the preprocessed data, please cite the corresponding dataset:
+If you use the preprocessed data, please cite the corresponding datasets:
 
 - Virtual KITTI
 
