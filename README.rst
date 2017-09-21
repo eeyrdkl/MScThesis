@@ -1,6 +1,8 @@
 MSc Computer Science and Engineering Thesis Implementation
 ==========================================================
 
+Title: Semantic Segmentation of RGBD Videos with Recurrent Fully Convolutional Neural Networks
+
 Index
 -----
 - `Requirements`_
