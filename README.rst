@@ -47,7 +47,7 @@ If you benefit from our research, please cite our paper:
 
 If you use the preprocessed data, please cite the corresponding datasets:
 
-- Virtual KITTI
+- Virtual KITTI `[LICENSE] <http://www.europe.naverlabs.com/Research/Computer-Vision/Proxy-Virtual-Worlds>`_
 
 ::
 
@@ -58,7 +58,7 @@ If you use the preprocessed data, please cite the corresponding datasets:
     year = {2016}
   }
 
-- DAVIS
+- DAVIS `[LICENSE] <http://davischallenge.org/>`_
 
 ::
 
@@ -69,7 +69,7 @@ If you use the preprocessed data, please cite the corresponding datasets:
     year = {2016}
   }
 
-- Robot\@Home
+- Robot\@Home `[LICENSE] <http://mapir.isa.uma.es/mapirwebsite/index.php/mapir-downloads/203-robot-at-home-dataset.html>`_
 
 ::
 
@@ -78,4 +78,16 @@ If you use the preprocessed data, please cite the corresponding datasets:
     title = {Robot@Home, a Robotic Dataset for Semantic Mapping of Home Environments},
     journal = {International Journal of Robotics Research},
     year = {2017}
+  }
+
+If you use the pretrained weights, please cite the VGG paper: `[LICENSE] <http://www.robots.ox.ac.uk/~vgg/research/very_deep/>`_
+
+::
+
+  @article{Simonyan14c,
+    author = "Simonyan, K. and Zisserman, A.",
+    title = "Very Deep Convolutional Networks for Large-Scale Image Recognition",
+    journal = "CoRR",
+    volume = "abs/1409.1556",
+    year = "2014"
   }
