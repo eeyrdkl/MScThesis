@@ -166,13 +166,6 @@ end
 #E2 : Half Train/Test
 
 #   Conv
-function run_vKITTI_Conv_RGBD_E1_test()
-    test_vKITTI_Conv("RGBD_VGG",vKITTI_Conv_RGBD,"vKITTI/Degrees/Conv_RGBD.jld"; batchsize=32,saveImages=true,
-        testVariations=["15-deg-left","15-deg-right"],
-        testMode="full",
-        experiment="Degrees"
-        )
-end
 function run_vKITTI_Conv_RGBD_E2_test()
     test_vKITTI_Conv("RGBD_VGG",vKITTI_Conv_RGBD,"vKITTI/First_Second/Conv_RGBD.jld"; batchsize=32,saveImages=true,
         testVariations=["30-deg-left","30-deg-right","15-deg-left","15-deg-right","clone","fog","morning","overcast","rain","sunset"],
@@ -180,23 +173,7 @@ function run_vKITTI_Conv_RGBD_E2_test()
         experiment="First_Second")
 end
 
-#   RNN
-function run_vKITTI_RNN_RGBD_E1_test()
-    test_vKITTI_RNN("RGBD_VGG",vKITTI_RNN_RGBD,"vKITTI/Degrees/RNN_RGBD.jld"; saveImages=true,
-        testVariations=["15-deg-left","15-deg-right"],
-        testMode="full",
-        experiment="Degrees"
-        )
-end
-
 #   LSTM
-function run_vKITTI_LSTM_RGBD_E1_test()
-    test_vKITTI_LSTM("RGBD_VGG",vKITTI_LSTM_RGBD,"vKITTI/Degrees/LSTM_RGBD.jld"; saveImages=true,
-        testVariations=["15-deg-left","15-deg-right"],
-        testMode="full",
-        experiment="Degrees"
-        )
-end
 function run_vKITTI_LSTM_RGBD_E2_test()
     test_vKITTI_LSTM("RGBD_VGG",vKITTI_LSTM_RGBD,"vKITTI/First_Second/LSTM_RGBD.jld"; saveImages=true,
         testVariations=["30-deg-left","30-deg-right","15-deg-left","15-deg-right","clone","fog","morning","overcast","rain","sunset"],
@@ -204,22 +181,5 @@ function run_vKITTI_LSTM_RGBD_E2_test()
         experiment="First_Second")
 end
 
-#   GRU
-function run_vKITTI_GRU_RGBD_E1_test()
-    test_vKITTI_GRU("RGBD_VGG",vKITTI_GRU_RGBD,"vKITTI/Degrees/GRU_RGBD.jld"; saveImages=true,
-        testVariations=["15-deg-left","15-deg-right"],
-        testMode="full",
-        experiment="Degrees"
-        )
-end
-
-#   Conv
-export run_vKITTI_Conv_RGBD_E1_test
 export run_vKITTI_Conv_RGBD_E2_test
-#   RNN
-export run_vKITTI_RNN_RGBD_E1_test
-#   LSTM
-export run_vKITTI_LSTM_RGBD_E1_test
 export run_vKITTI_LSTM_RGBD_E2_test
-#   GRU
-export run_vKITTI_GRU_RGBD_E1_test
