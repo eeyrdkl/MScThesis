@@ -28,9 +28,15 @@ Installation
 
 Post-Installation
 -----------------
-Download preprocessed data into /data/
+Download and unzip the preprocessed data into /data/
 
-Download pretrained weights into /data/pretrained/
+- Virtual KITTI: `Download [8 GB] <https://drive.google.com/file/d/0BzsWerNms8SNZFdkSDNzVHMycnc/view?usp=sharing>`_
+- DAVIS: `Download [1 GB] <https://drive.google.com/file/d/0BzsWerNms8SNOFFuaV82akJmVjA/view?usp=sharing>`_
+- Robot\@Home: `Download [3 GB] <https://drive.google.com/file/d/0BzsWerNms8SNcEVYTDJFMXMxZzQ/view?usp=sharing>`_
+
+Download and unzip the pretrained weights into /data/pretrained/
+
+- Pretrained Weights: `Download [2 GB] <https://drive.google.com/file/d/0BzsWerNms8SNaFdBWktsVGgweWM/view?usp=sharing>`_
 
 Citation
 --------
