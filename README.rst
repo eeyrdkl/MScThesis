@@ -40,6 +40,8 @@ Download and unzip the pretrained weights into /data/pretrained/
 
 - Pretrained Weights: `Download [1.6 GB] <https://drive.google.com/file/d/0BzsWerNms8SNaFdBWktsVGgweWM/view?usp=sharing>`_
 
+Sample output images: `Download [44 MB] <https://drive.google.com/file/d/0BzsWerNms8SNaVN2UnU3bHFRdVU/view?usp=sharing>`_
+
 Citation
 --------
 If you benefit from our research, please cite our paper:
