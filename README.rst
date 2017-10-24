@@ -26,7 +26,7 @@ Installation
 ::
 
   $ julia
-  julia> Pkg.clone("https://github.com/ekyurdakul/MScThesis.git");
+  julia> Pkg.clone("https://github.com/eeyrdkl/MScThesis.git");
 
 Post-Installation
 -----------------
@@ -48,10 +48,11 @@ If you benefit from our research, please cite our paper:
 
 ::
 
-  @inproceedings{Yurdakul2017,
-    author = {Yurdakul, Ekrem Emre and Yemez, Y\"{u}cel},
-    title = {{Semantic Segmentation of RGBD Videos with Recurrent Fully Convolutional Neural Networks}},
-    booktitle = {ICCV 2017 4th IEEE/ISPRS Joint Workshop on Multi-Sensor Fusion for Dynamic Scene Understanding},
+  @inproceedings{Yurdakul_2017_ICCV,
+    author = {Emre Yurdakul, Ekrem and Yemez, Yucel},
+    title = {Semantic Segmentation of RGBD Videos With Recurrent Fully Convolutional Neural Networks},
+    booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+    month = {Oct},
     year = {2017}
   }
 
